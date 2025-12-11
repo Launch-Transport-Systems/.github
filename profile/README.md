@@ -118,8 +118,8 @@ Explore our projects and contributions to the space transportation ecosystem:
 
 Interested in partnering with us or learning more about our work?
 
-- **Website**: Coming soon
-- **Email**: contact@launchtransportsystems.space
+- **Website**: [To be announced]
+- **Email**: [contact@launchtransportsystems.space]
 - **Careers**: We're building an exceptional team - check our repositories for opportunities
 - **Follow Us**: Stay updated on our latest developments and announcements
 
